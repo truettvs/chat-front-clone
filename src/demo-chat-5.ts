@@ -3,12 +3,12 @@ import type { DemoChat } from "@/types/chat";
 export const demoChat5: DemoChat = {
   id: "install-nvm-on-mac",
   title: "Install NVM on Mac",
-  createdAt: new Date("2026-03-22T14:35:00-05:00").toISOString(),
+  createdAt: new Date("2026-03-29T14:35:00-05:00").toISOString(),
   messages: [
     {
       role: "user",
       message: `Install nvm and node and npm on mac`,
-      sentAt: new Date("2026-03-22T14:35:00-05:00").toISOString(),
+      sentAt: new Date("2026-03-29T14:35:00-05:00").toISOString(),
     },
     {
       role: "assistant",
@@ -92,7 +92,7 @@ source ~/.zshrc
 
 Use NVM if you want to switch Node versions easily across projects 👍
 `,
-      sentAt: new Date("2026-03-22T14:35:00-05:00").toISOString(),
+      sentAt: new Date("2026-03-29T14:35:00-05:00").toISOString(),
     }
   ],
 };

@@ -243,12 +243,6 @@ const fillerChats: DemoChat[] = [
     messages: [],
   },
   {
-    id: "mental-health-advice",
-    title: "Mental Health Advice",
-    createdAt: new Date("2026-03-11T16:49:00-05:00").toISOString(),
-    messages: [],
-  },
-  {
     id: "web-development-roadmap",
     title: "Web Development Roadmap",
     createdAt: new Date("2026-03-11T09:33:00-05:00").toISOString(),
@@ -291,12 +285,6 @@ const fillerChats: DemoChat[] = [
     messages: [],
   },
   {
-    id: "presentation-slide-design",
-    title: "Presentation Slide Design",
-    createdAt: new Date("2026-03-19T09:50:00-05:00").toISOString(),
-    messages: [],
-  },
-  {
     id: "game-development-concepts",
     title: "Game Development Concepts",
     createdAt: new Date("2026-03-20T13:37:00-05:00").toISOString(),
@@ -306,12 +294,6 @@ const fillerChats: DemoChat[] = [
     id: "blockchain-technology-explained",
     title: "Blockchain Technology Explained",
     createdAt: new Date("2026-03-21T17:12:00-05:00").toISOString(),
-    messages: [],
-  },
-  {
-    id: "meditation-practice-guide",
-    title: "Meditation Practice Guide",
-    createdAt: new Date("2026-03-22T07:41:00-05:00").toISOString(),
     messages: [],
   },
   {
@@ -396,12 +378,6 @@ const fillerChats: DemoChat[] = [
     id: "typescript-type-safety",
     title: "Typescript Type Safety",
     createdAt: new Date("2026-03-03T07:27:00-05:00").toISOString(),
-    messages: [],
-  },
-  {
-    id: "ai-chatbot-design",
-    title: "AI Chatbot Design",
-    createdAt: new Date("2026-02-15T13:44:00-05:00").toISOString(),
     messages: [],
   },
   {
@@ -495,12 +471,6 @@ const fillerChats: DemoChat[] = [
     messages: [],
   },
   {
-    id: "agile-sprint-planning",
-    title: "Agile Sprint Planning",
-    createdAt: new Date("2026-03-03T13:26:00-05:00").toISOString(),
-    messages: [],
-  },
-  {
     id: "scrum-ceremony-guide",
     title: "Scrum Ceremony Guide",
     createdAt: new Date("2026-03-04T17:44:00-05:00").toISOString(),
@@ -525,21 +495,9 @@ const fillerChats: DemoChat[] = [
     messages: [],
   },
   {
-    id: "note-taking-methods",
-    title: "Note Taking Methods",
-    createdAt: new Date("2026-03-08T10:11:00-05:00").toISOString(),
-    messages: [],
-  },
-  {
     id: "study-techniques-guide",
     title: "Study Techniques Guide",
     createdAt: new Date("2026-03-09T18:49:00-05:00").toISOString(),
-    messages: [],
-  },
-  {
-    id: "exam-preparation-strategy",
-    title: "Exam Preparation Strategy",
-    createdAt: new Date("2026-03-10T06:55:00-05:00").toISOString(),
     messages: [],
   },
   {
@@ -561,18 +519,6 @@ const fillerChats: DemoChat[] = [
     messages: [],
   },
   {
-    id: "passive-income-strategies",
-    title: "Passive Income Strategies",
-    createdAt: new Date("2026-03-15T13:59:00-05:00").toISOString(),
-    messages: [],
-  },
-  {
-    id: "real-estate-investing",
-    title: "Real Estate Investing",
-    createdAt: new Date("2026-03-16T18:07:00-05:00").toISOString(),
-    messages: [],
-  },
-  {
     id: "retirement-planning-basics",
     title: "Retirement Planning Basics",
     createdAt: new Date("2026-03-17T07:35:00-05:00").toISOString(),
@@ -582,12 +528,6 @@ const fillerChats: DemoChat[] = [
     id: "credit-score-improvement",
     title: "Credit Score Improvement",
     createdAt: new Date("2026-03-18T11:51:00-05:00").toISOString(),
-    messages: [],
-  },
-  {
-    id: "debt-repayment-strategies",
-    title: "Debt Repayment Strategies",
-    createdAt: new Date("2026-03-19T15:24:00-05:00").toISOString(),
     messages: [],
   },
   {
@@ -678,12 +618,6 @@ const fillerChats: DemoChat[] = [
     id: "nutrition-meal-planning",
     title: "Nutrition Meal Planning",
     createdAt: new Date("2026-02-27T08:04:00-05:00").toISOString(),
-    messages: [],
-  },
-  {
-    id: "weight-loss-strategies",
-    title: "Weight Loss Strategies",
-    createdAt: new Date("2026-03-01T12:58:00-05:00").toISOString(),
     messages: [],
   },
   {
